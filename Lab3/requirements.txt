@@ -1,0 +1,9 @@
+# The lab uses only the Python standard library -- nothing is required to
+# run the demos or the tests.
+#
+# Optional tooling for a nicer experience:
+pytest>=7.0        # prettier automated self-checks (test_solutions.py)
+jupyterlab>=4.0    # to open lab2.ipynb  (or use: notebook>=7.0)
+#
+# Mentioned in the lab for production use (not required here):
+# defusedxml>=0.7   # hardened XML parsing

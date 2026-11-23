@@ -1,0 +1,6 @@
+# Required for Part B (AES-GCM, AEAD):
+cryptography>=42.0
+#
+# Optional tooling:
+pytest>=7.0        # prettier automated self-checks (test_solutions.py)
+jupyterlab>=4.0    # to open lab4.ipynb  (or use: notebook>=7.0)
